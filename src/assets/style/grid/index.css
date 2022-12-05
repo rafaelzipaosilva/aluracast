@@ -1,3 +1,6 @@
+@import url("../grid/cartao.css");
+@import url("../grid/secao.css");
+
 body {
 	display: grid;
 	grid-template-areas:
